@@ -1,6 +1,6 @@
 ## قرائتگر تک کاناله امواج مغزی
 NeuroSky's MindWave Reader
-
+![20170405-screenshot-v1 0](https://cloud.githubusercontent.com/assets/6195199/24731239/fb4f4710-1a7d-11e7-83b3-361a436286c0.png)
 
 ## &#x202b; ترجمه رنگ های LED هدست
 * &#x202b; خاموش: هدست خاموش است
