@@ -9,8 +9,10 @@ NeuroSky's MindWave Reader
 * &#x202b; تک چشمک آبی: جفت شده / paired و آماده برای 
 * &#x202b; دو چشمک قرمز: ضعف باطری
 
+## انواع هدست
+![mindwave-headsets](https://cloud.githubusercontent.com/assets/6195199/24644862/e8daeb38-192a-11e7-9198-8e8bf6443a88.png)
 
-## &#x202b; آدرس های مهم
+## آدرس های مهم
 * &#x202b; مدل MindWave (هدست سفید): http://mindwave.neurosky.com 
 * &#x202b; مدل MindWave Mobile (هدست سیاه بدون گوشی): http://mindwavemobile.neurosky.com
 * &#x202b; مدل MindSet (هدست سیاه با گوشی): http://mindset.neurosky.com 
