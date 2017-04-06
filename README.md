@@ -1,5 +1,6 @@
 ## قرائتگر تک کاناله امواج مغزی
 NeuroSky's MindWave Reader
+![20170405-screenshot-v1 0](https://cloud.githubusercontent.com/assets/6195199/24731239/fb4f4710-1a7d-11e7-83b3-361a436286c0.png)
 
 
 ## &#x202b; ترجمه رنگ های LED هدست
@@ -9,8 +10,10 @@ NeuroSky's MindWave Reader
 * &#x202b; تک چشمک آبی: جفت شده / paired و آماده برای 
 * &#x202b; دو چشمک قرمز: ضعف باطری
 
+
 ## انواع هدست
 ![mindwave-headsets](https://cloud.githubusercontent.com/assets/6195199/24644862/e8daeb38-192a-11e7-9198-8e8bf6443a88.png)
+
 
 ## آدرس های مهم
 * &#x202b; مدل MindWave (هدست سفید): http://mindwave.neurosky.com 
@@ -19,7 +22,12 @@ NeuroSky's MindWave Reader
 * &#x202b; فروشگاه NeuroSky - آنلاین: http://store.neurosky.com
 
 
-## پشتیبانی
+## با تشکر
+* &#x202b; با تشکر از تیم نکسوس آرم / ربات اگزوسکلتون فراتوانبخش دانشگاه آزاد اسلامی واحد پردیس
+* &#x202b; با تشکر از [LiveCharts](https://github.com/beto-rodriguez/Live-Charts) 
+
+
+## پشتیبانی و حمایت
 لطفا اگر ترجمه بهتری برای یک عبارت یافته اید
 لطفا اگر مشکلی مشاهده کردید
 لطفا اگر پیشنهادی دارید
