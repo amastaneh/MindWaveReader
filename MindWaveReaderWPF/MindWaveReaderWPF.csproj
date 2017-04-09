@@ -33,6 +33,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="LiveCharts, Version=0.9.5.0, Culture=neutral, PublicKeyToken=c5935629d38af058, processorArchitecture=MSIL">
       <HintPath>..\packages\LiveCharts.0.9.5\lib\net45\LiveCharts.dll</HintPath>
@@ -105,12 +108,16 @@
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
     <AppDesigner Include="Properties\" />
+    <None Include="Resources\20170409-logo.psd" />
     <None Include="thinkgear64.lib" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="app.ico" />
+    <None Include="Resources\20170409-logo-t.png" />
+    <None Include="Resources\20170409-logo.png" />
     <Content Include="thinkgear64.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
