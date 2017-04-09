@@ -1,5 +1,6 @@
 ## قرائتگر تک کاناله امواج مغزی
-NeuroSky's MindWave Reader
+WebDesignIran NeuroSky MindWave Reader is a NeuroSky MindWave and MindWave Mobile EEG headsets and monitor brain waves. it's useful for any user specially if you're software developer or researcher. 
+
 ![20170405-screenshot-v1 0](https://cloud.githubusercontent.com/assets/6195199/24731239/fb4f4710-1a7d-11e7-83b3-361a436286c0.png)
 
 
