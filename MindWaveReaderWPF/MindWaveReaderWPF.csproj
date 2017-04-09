@@ -102,6 +102,10 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="Documents\User Guide - BackCover.docx" />
+    <None Include="Documents\User Guide - Content.docx" />
+    <None Include="Documents\User Guide - FrontCover.docx" />
+    <None Include="Documents\User Guide v1.0.0.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -120,6 +124,7 @@
     <None Include="Resources\20170409-logo.png" />
     <Content Include="thinkgear64.dll" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
